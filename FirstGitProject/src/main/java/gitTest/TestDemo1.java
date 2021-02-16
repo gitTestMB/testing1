@@ -6,7 +6,7 @@ public class TestDemo1 {
 		System.out.println("Demo 1");
 	}
 	public void sayHi() {
-		System.out.println("say Hi");
+		System.out.println("say Hello");
 	}
 	
 }
